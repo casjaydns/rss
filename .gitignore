@@ -119,3 +119,5 @@ dist
 .vercel
 
 # End of https://www.toptal.com/developers/gitignore/api/now,node
+# ignore commit message
+.gitcommit
