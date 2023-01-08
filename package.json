@@ -16,7 +16,7 @@
     "cors",
     "Morgan"
   ],
-  "author": "Jason Hempstead <jason@casjaysdev.com> (https://jason.malaks.us)",
+  "author": "Jason Hempstead <jason@casjaysdev.com> (https://malaks-us.github.io/jason)",
   "repository": {
     "type": "git",
     "url": "https://github.com/devenvmgr/express-cors-api"
